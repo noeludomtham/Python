@@ -1,0 +1,12 @@
+name = "Penguin"
+age = 15
+is_student = True
+weight = 38.5
+
+print("\n After Type Casting....")
+age = str(age)
+print(age)
+print("The Data Type of age is", type(age))
+weight = int(weight)
+print(weight)
+print("The Data Type of weight is", type(weight))
