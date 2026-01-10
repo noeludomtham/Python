@@ -1,0 +1,5 @@
+age = int(input("Enter your age: "))
+if age >= 10 and age <= 20:
+    print("Age is between 10 and 20 years old")
+else:
+    print("Age is not between 10 and 20 years old")s
